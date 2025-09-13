@@ -1,0 +1,19 @@
+{
+  "name": "Nayana Janardhanan",
+  "title": "Software Developer",
+  "about": "I am passionate about building clean, scalable applications.",
+  "skills": ["Python", "React", "AWS", "SQL", "Snowflake", "Shopify", "GenAI", "Phidata"],
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "description": "A personal website to showcase my skills and projects.",
+      "link": "https://github.com/nayanajanardhanan/personal-portfolio",
+      "image": "portfolio.png"
+    },
+    {
+      "name": "Wallet Transaction System",
+      "description": "Wallet Transaction System is an application that allows users to add money, transfer funds, and check their balance securely. It helps track all transactions in one place, making it easy to manage personal or digital payments.",
+      "link": "https://github.com/nayanajanardhanan/WalletTransactionSystem"
+    }
+  ]
+}
